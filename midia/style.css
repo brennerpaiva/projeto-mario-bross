@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.descricao {
+    font-family: "Poppins";
+}
+
+video{
+
+    object-fit: cover;
+    width: 100%;
+    
+}
