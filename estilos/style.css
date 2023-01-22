@@ -59,6 +59,10 @@ body {
     background-color: brown;
     transition: 0.5s;
 }
+
+.cabecalho nav li a:hover {
+    background-color: #d5011d;
+}
 /* Fim nav */
 
 
@@ -98,6 +102,12 @@ body {
     
 }
 
+.container .botao-trailer:hover {
+    transform: scale(1.1);
+    transition: 0.5s all ease-in-out;
+    
+}
+
 .mario {
     width: 600px;
 }
@@ -125,7 +135,7 @@ body {
     top: 0;
     left: 0;
 
-    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0, 0, 0, 0.9) 50%, rgba(0,0,0,1) 100%);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0, 0, 0, 0.75) 50%, rgba(0,0,0,1) 100%);
 }
 
 .modal {
