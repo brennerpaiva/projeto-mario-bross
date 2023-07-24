@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Filme - Super Mario Bross</h1>
+  <h1>Filme - Super Mario Bros</h1>
 </div>
 
 ![215shots_so](https://github.com/brennerpaiva/projeto-mario-bross/assets/114958953/c682484f-964f-4482-9388-5e47c2a91aea)
@@ -7,7 +7,7 @@
 ## Visão geral
 
 ### 🗂️ O Projeto
-Página sobre o filme "Super Mario Bross". Aqui, você encontrará uma sinopse do enredo e poderá assistir ao trailer oficial incorporado diretamente na página. Desfrute dessa prévia emocionante do que o filme oferece. 
+Página sobre o filme "Super Mario Bros". Aqui, você encontrará uma sinopse do enredo e poderá assistir ao trailer oficial incorporado diretamente na página. Desfrute dessa prévia emocionante do que o filme oferece. 
 
 🔗 <a href="https://brennerpaiva.github.io/projeto-mario-bross/" target="_blank">Visualizar Deploy</a>
 
