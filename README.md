@@ -21,7 +21,7 @@ Página sobre o filme "Super Mario Bros". Aqui, você encontrará uma sinopse do
 
 
 ### 📌 Objetivo:
-Este projeto serviu para ampliar meu conhecimento e confiança em desenvolvimento web. Aprendi mais sobre como implementar um modal que permite aos usuários assistirem ao trailer oficial do filme diretamente na página, por meio da tag "iframe" do YouTube. Essa funcionalidade adicionou um elemento atrativo e dinâmico à página, ampliando minhas habilidades em manipulação de elementos externos e integração de conteúdo externo em projetos web.
+Este projeto serviu para ampliar meu conhecimento e confiança em desenvolvimento web. Aprendi mais sobre como implementar um modal que permite aos usuários assistirem ao trailer oficial do filme diretamente na página, por meio da tag "iframe". Essa funcionalidade adicionou um elemento atrativo e dinâmico à página, ampliando minhas habilidades em manipulação de elementos externos e integração de conteúdo externo em projetos web.
 
 ### 🛠️ Linguagens e ferramentas: 
 • <img width="20px" src="https://skillicons.dev/icons?i=javascript" alt="javascript icon"/> JavaScript\
